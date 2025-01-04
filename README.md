@@ -1,19 +1,18 @@
-# Official TinyMCE Vue component
+#官方TinyMCE Vue组件
 
-## About
+# #约
 
-This package is a thin wrapper around [TinyMCE](https://github.com/tinymce/tinymce) to make it easier to use in a Vue application.
+这个包是[TinyMCE]（https://github.com/tinymce/tinymce）的一个薄包装，使它更容易在Vue应用程序中使用。
 
-* If you need detailed documentation on TinyMCE, see: [TinyMCE Documentation](https://www.tiny.cloud/docs/tinymce/7/).
-* For the TinyMCE Vue Quick Start, see: [TinyMCE Documentation - Vue Integration](https://www.tiny.cloud/docs/tinymce/7/vue-cloud).
-* For the TinyMCE Vue Technical Reference, see: [TinyMCE Documentation - TinyMCE Vue Technical Reference](https://www.tiny.cloud/docs/tinymce/7/vue-ref).
-* For our quick demos, check out the TinyMCE Vue [Storybook](https://tinymce.github.io/tinymce-vue/).
+*如果您需要TinyMCE的详细文档，请参见：[TinyMCE documentation]（https://www.tiny.cloud/docs/tinymce/7/）。
+*对于TinyMCE Vue快速入门，请参见：[TinyMCE文档- Vue集成]（https://www.tiny.cloud/docs/tinymce/7/vue-cloud）。
+*有关TinyMCE Vue技术参考，请参见：[TinyMCE Documentation - TinyMCE Vue技术参考]（https://www.tiny.cloud/docs/tinymce/7/vue-ref）。
+*对于我们的快速演示，请查看TinyMCE Vue [Storybook]（https://tinymce.github.io/tinymce-vue/）。
 
+# # #支持
 
-### Support
+版本4.0旨在支持Vue 3。对于Vue 2。请使用以前版本的包装器。
 
-Version 4.0 is intended to support Vue 3. For Vue 2.x and below please use previous versions of the wrapper.
+# # #的问题
 
-### Issues
-
-Have you found an issue with `tinymce-vue` or do you have a feature request? Open up an [issue](https://github.com/tinymce/tinymce-vue/issues) and let us know or submit a [pull request](https://github.com/tinymce/tinymce-vue/pulls). *Note: for issues related to TinyMCE please visit the [TinyMCE repository](https://github.com/tinymce/tinymce).*
+您是否发现了“tinymce-vue”的问题，或者您是否有功能请求？打开一个[问题](https://github.com/tinymce/tinymce-vue/issues)，让我们知道或提交一个[pull request]（https://github.com/tinymce/tinymce-vue/pulls）。*注意：有关TinyMCE的问题，请访问[TinyMCE存储库](https://github.com/tinymce/tinymce).*)
